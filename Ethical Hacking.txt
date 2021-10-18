@@ -136,7 +136,7 @@ Install Discover
   | ./update.sh
   |
 install 
-  | clone seclists
+  | clone seclistsin document folder
 
 
 Burpsuite
@@ -150,9 +150,29 @@ link => https://drive.google.com/file/d/1R19bRsw72NeGTlwJ9U96rOp8mk8fHQ9m/view
   | if any issue of java 11 close and run . update-alternatives --config java
   | if no install java jdk8 opensourde in deb go to directory 
   | dpkg -i <java 8 file name>
+  | java -noverify -jar - ESedition.jar
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+### Configure proxy
+-----------------------
+  | root, gedit /etc/hostname --windows
+  | root, gedit /etc/hosts --windows
+  | cd /etc , ls search proxychains4.conf
+  | gedit proxychain4.config # Strictchain,un# dynamic chain, come to last proxy list and edit ..
+go to browser and search for free proxy paste some proxy ip adress and port only followed by http
+  | proxychain curl https://whatsmyip.com
 
+ ++++or search torghost github++++
+  | clone in downloads folder
+  | 
+
+### Configure VPN
+
+### Changing MAC Address
+
+### Auto Shell Program
+ 
 
 Download Wordlist
 Install bobsuite Pro
