@@ -168,8 +168,20 @@ go to browser and search for free proxy paste some proxy ip adress and port only
   | 
 
 ### Configure VPN
+----------------
+        #### Manually
+  | cd /etc/dhcp, ls, debug dhClient.config, gedit dhclient.config, uncomment prepend triple it line.
+
+goto google addon search
+ - search betternet and add it
+- checkvulnable to dns leake test, vpn test. 
 
 ### Changing MAC Address
+---------------------------
+% Ethrnet
+===========
+  | sudo , ifconfig, macchanger --help
+  | macchanger -l, macchanger - etho
 
 ### Auto Shell Program
  
@@ -183,7 +195,7 @@ Install bobsuite Pro
 
 
 
-*****2.15.05(https://www.youtube.com/watch?v=Rgvzt0D8bR4)
+*****2.38.05(https://www.youtube.com/watch?v=Rgvzt0D8bR4)
 
 
 
