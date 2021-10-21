@@ -181,9 +181,28 @@ goto google addon search
 % Ethrnet
 ===========
   | sudo , ifconfig, macchanger --help
-  | macchanger -l, macchanger - etho
+  | macchanger -l, macchanger -s eth0, macchanger -e eth0.
+  | cd Documents, ls(#!/bin/sh macchanger -e eth0 *3, exit), and run 
+  | crontab -e, a top  wrie @reboot paste path of mac.sh /from root (ctrl o , anter ctrl x)
+  | service cron start
+  | systemctl enable cron.service
+  | systemctl start cron.service
+  | update-rc.d cron default
+
+% WIFI
+===========
+  | sudo su, ifconfig, 
 
 ### Auto Shell Program
+--------------------------
+
+## Install and Configure Testing machine
+------------------------------------------
+- install window xp
+-------------------
+  | window xp on google (.iso)
+- installing metasploitable 2 --2:52:00
+- installng dvwa
  
 
 Download Wordlist
@@ -195,7 +214,7 @@ Install bobsuite Pro
 
 
 
-*****2.38.05(https://www.youtube.com/watch?v=Rgvzt0D8bR4)
+*****2.56.51(https://www.youtube.com/watch?v=Rgvzt0D8bR4)
 
 
 
