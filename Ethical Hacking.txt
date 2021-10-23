@@ -205,15 +205,9 @@ goto google addon search
 - installng dvwa
  
 
-Download Wordlist
-Install bobsuite Pro
-
- 
-
-
-
-
-
+## what is foot printing and reconnaissance
+===============================================
+ ..next file
 *****2.56.51(https://www.youtube.com/watch?v=Rgvzt0D8bR4)
 
 
