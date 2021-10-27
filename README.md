@@ -116,8 +116,8 @@ tcp has 6 flag
 * URG(Urgent) - Data Contained the packet should be processed immediately.
 * FIN(Finish) - there will be no further transmission.
 * RST(Rest) - Resests a connection.
-* PSH(Push) - Send all buffered data immediately.
-* ACK(Acknowlegment) - Acknowlegment the recipt of a packet.
-* SYN(Sychronize) - intitate connection between hosts.
- ==> TCP THREE _ WAY HANDSHAKE
- ==> TCP Session Termination.
+* PSH(Push) - Send all buffered data immediately .
+* ACK(Acknowlegment) - Acknowlegment the recipt of a packet .
+* SYN(Sychronize) - intitate connection between hosts .
+ ==> TCP THREE _ WAY HANDSHAKE . 
+ ==> TCP Session Termination .  
