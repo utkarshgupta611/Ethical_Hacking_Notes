@@ -121,3 +121,92 @@ tcp has 6 flag
 * SYN(Sychronize) - intitate connection between hosts .
  ==> TCP THREE _ WAY HANDSHAKE . 
  ==> TCP Session Termination .  
+
+
+##                                         what is foot printing and reconnaissance
+=============================================== ================================= ================================
+### what is foot printing and reconnaissance?
+-----------------------------------------------
+
+  - what is foot printing -
+  --------------------------- 
+
+    personal details, company detail, technology, system information, gathering all info about target, entity belong to target.
+  
+### Types of foot printing?
+   ---------------------------------
+
+    - Active
+     ---------
+
+       - direct interaction.
+       - gather information.
+
+    - pasive
+     ---------
+
+     - without interacting .
+     - gathering information.
+
+  ### Use of footprinting?
+  ---------------------------
+
+     - Information gathering.
+     - time saving.
+     - easy processing.
+     - Accurat Attacking.
+ 
+  ## How to FOOTPRINTING
+===========================
+
+  - footprinting through search engine.
+  ----------------------------------------
+
+    | Not Evil. (tor browser).
+    | shodan , censys . (tempmail)
+    | duckduckgo.
+
+  - footprinting using advance google hacking technique
+  ----------------------------------------
+   | cache:
+   | filetype:
+   | allintext:
+   | inurl:
+   | allintitle:
+   | intitle:
+   | allinurl:
+   | inanchor:
+   | indexof:  **imp
+
+   - footprinting through  social networking site
+  ------------------------------------------------
+
+*********************************************************
+
+##                                  foot printing and reconnaissance steps
+====================================================  =======================================================
+   
+  1)Knowing Website tech(Netcraft, wapplyzer)(addon)
+  2)Sub domain of Websitr(Sublist3r c99(git), subdomainfinder)
+  3)Finding Hidden links(link extractor(web), DIBR(pre-install kali, just cmd dirb ))
+  4)check Security of Header(securityheader.com)
+  5) Ip's and buffer sixe of website(win cmd ping   ) 
+  6)SSL test(ssllabs.com/ssltest)
+  7)Wayback machine(Website updates)
+  8)checking SPF and more
+
+
+emailtrackerpro in win xp 
+====================
+
+## DNS, whois and more footPrinting Technique
+====================================================
+- DNS Footprinting
+----------------------
+  mxtoolbox(online) -> alltool {
+- Whois footprinting
+- NS lookup
+- Mx lookup }
+- Footprinting through discovering
+
+Use Discover apps
