@@ -1,4 +1,4 @@
-# Ethical_Hacking_Notes
+ # Ethical_Hacking_Notes
 #                                          ETHICAL HACKING
 ## ------------------------------------------------------------------------------------------------------
 
@@ -196,7 +196,8 @@ tcp has 6 flag
   8)checking SPF and more
 
 
-emailtrackerpro in win xp 
+emailtrackerpro in win xp vm.
+
 ====================
 
 ## DNS, whois and more footPrinting Technique
